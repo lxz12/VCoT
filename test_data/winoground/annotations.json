@@ -1,0 +1,9 @@
+[
+  {
+    "id": 0,
+    "caption_0": "A red apple on a table",
+    "caption_1": "A blue car on a road",
+    "image_0_path": "./test_data/winoground/images/0_img0.png",
+    "image_1_path": "./test_data/winoground/images/0_img1.png"
+  }
+]
