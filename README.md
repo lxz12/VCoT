@@ -10,7 +10,8 @@ This is the implementation of the paper **V-CoT:  Collaborative Multi-Role Appro
 
 
 ## Architecture
-![系统架构图](./frame/frame.pdf)
+<img width="1090" height="501" alt="image" src="https://github.com/user-attachments/assets/a6fb20c9-7fec-4d36-b0b3-af799ec44986" />
+
 
 ## Large Multimodal Models
 
