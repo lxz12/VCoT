@@ -1,9 +1,4 @@
 # V-CoT
-<p>
-    <a href='#' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-    <a href='#' target="_blank"><img src='https://img.shields.io/badge/Code-Partial-yellow'></a>
-</p>
-
 This is the implementation of the paper **V-CoT:  Collaborative Multi-Role Approach to Visual Reasoning**
 
 ---
